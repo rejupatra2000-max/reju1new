@@ -1,6 +1,6 @@
 n = 5  # number of rows (half diamond height)
 
-# Upper half
+# Up<br>per half
 for i in range(n):
     print(" " * (n - i - 1) + "* " * (i + 1))
 
